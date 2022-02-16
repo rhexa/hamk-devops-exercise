@@ -1,0 +1,1 @@
+# hamk-devops-exercise
